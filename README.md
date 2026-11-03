@@ -3,7 +3,7 @@
 Maestría en Inteligencia Artificial Aplicada · Tecnológico de Monterrey
 Inteligencia Artificial y Aprendizaje Automático · Prof. Luis Eduardo Falcón Morales
 
-Entregable: [`PreciosVivienda_Equipo.ipynb`](PreciosVivienda_Equipo.ipynb)
+Entregable: [`PreciosVivienda_Equipo12.ipynb`](PreciosVivienda_Equipo12.ipynb)
 
 ## Equipo 12
 
