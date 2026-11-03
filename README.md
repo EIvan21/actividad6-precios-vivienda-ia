@@ -1,11 +1,11 @@
-# Actividad 6 · Predicción de precios de vivienda
+# Actividad 6 · Predicción de precios de vivienda · Equipo 12
 
 Maestría en Inteligencia Artificial Aplicada · Tecnológico de Monterrey
 Inteligencia Artificial y Aprendizaje Automático · Prof. Luis Eduardo Falcón Morales
 
 Entregable: [`PreciosVivienda_Equipo.ipynb`](PreciosVivienda_Equipo.ipynb)
 
-## Equipo
+## Equipo 12
 
 | Integrante | Matrícula |
 |---|---|
